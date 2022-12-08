@@ -1,1 +1,2 @@
 “Creo una primera línea en el segundo archivo.”
+“Creo una segunda línea en el segundo archivo.”
